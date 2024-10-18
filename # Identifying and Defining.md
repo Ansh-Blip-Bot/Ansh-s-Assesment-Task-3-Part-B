@@ -33,4 +33,36 @@ Equity:  The term “equity” refers to fairness and justice and is distinguish
 Accessibility: Accessibility is the practice of making information, activities, and/or environments sensible, meaningful, and usable for as many people as possible. A common example of accessibility that we have all likely encountered, is in the context of architectural design.
 
 # Accessibility:
-Consideration: 
+## Consideration: 
+We want our game to be accsessible to everyone and still be enjoyable by all, we will have to edit and add many features but are prepared to do this as, Overfishing and Sea pollution are important and we should be aware of that. If someone disabled would want to play it, there will be exceptions and the games could be made easier or slower-paced. Furthermore the game is quite straightforward could also easily understood why someone with mental issues.
+
+## Guidance: 
+For people hard of hearing, this wouldn't be a concern as this game dosen't incorporate audio. If someone is blind it may be very tough for them to enjoy the game, but there will be a voiceover version, which will tell you what side the pollution is coming on, each level would also finish faster and be easier for blind people. For cases more severe than these such as mental illnesses or paralysation, alternate controls could be arranged but still may be an inconvenience for them, if it is even slightly uncomfortable we will prohibit it as we wouldn't want their conditions worsening, or hindering the healing process.
+
+# Privacy and Data Protection
+## Consideration:
+My Game will collect their scores, and load their high scores everytime they re-open the game, so they can always compete with the best version of themselves. My game may also connect their cosmetic choices, so it can be automatically loaded in next time. In my game the main character will be a fish, and maybe the fish could be customizable. E.G changing a clown fish main charecter to a salmon.
+
+## Guidance:
+Before they start their first round on our game we will ask if they want to have high scores recorded overtime or just in each session, we will also ask for their starting cosmetic choice. If they elect to have the High score stored, we will encrypt it and store it on a stable server, if not, each session their high score would start and 0 and gradually go up, untill at their next session again it starts at 0.
+
+# Fairness and Representation
+## Consideration: 
+My game is fully in the sea and there will be pieces of unbranded generic discarded rubbish drifting past, fishes would be the only customizeable features in the whole game. To prevent any racial stereotypes the game will not have an in-game map so no one can generalise the rubbish to a certain part of the world. 
+## Guidance
+As previously mentioned, humans will not be featured in this game, the only living thing is a fish, and they are customizeable, but offer no competitive advantage as they will not change speed or size, only looks. There will also be no biases as rubbish does not hold any cultural significance and cannot be judged against, as the point system is based off size.
+
+# Mental and Emotional Well-Being
+## Consideration:
+The most it could do is make them aware of Sea pollution and what fishes and sea creatures have to go through everyday for survival, hopefully this will encourage them to take some action about it. It could also make them feel bad about their previous negligence to a serious issue and what it has caused in the world. 
+
+## Guidance:
+The only violence is when the fish collides with the rubbish and dies. The death animation will be a red stained fading but will not show blood or anything disturbing. When the levels get harder, the obstacles may be turtles stuck in rubbish where the mission is to release them by pressing a sequence of buttons, but this will be a very hard level to get to.
+
+# Cultural sensitivities
+## Consideration:
+No, the only thing shown is the ocean, sea creatures and rubbish. If any fish or sea creatures is sacred to any culture it will not be included, and would be replaced by a different fish. In the case of rubbish, there will be soda cans, chip packets and plastic items, no brand names will be shown and any recognizable colours will be avoided.
+
+## Guidance:
+Just in case, and words or symbols are offensive to other nations or can be misunderstood, they will be blurred out, the only thing you will se on garbage is a colour and a faint residual of text or symbols. Since the sea can vary colours it will be the generic ocean, a hue between dark and light blue like shown in cartoons.
+
