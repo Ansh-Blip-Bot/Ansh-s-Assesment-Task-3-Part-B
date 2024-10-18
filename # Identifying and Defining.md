@@ -1,3 +1,19 @@
+# PMI 3 Games
+# Fortnite:
+Positive: Allows multiplayer, Helps timing, Hand Dexterity, active use of all senses, Fine Motor skills
+Negative: Basically, you will have trouble paying attention, following directions, managing your emotions, and diminished creativity. While this may seem to be a little dramatic for just playing a video game, your brain can change tremendously the longer you play.
+Interesting: Allows cross play which has a massive load. One of the world's biggest games.
+
+# Rocket league
+Positive: Has a clear progression system. Hand dexterity. Motor Skills. Promotes good teamwork.
+Negative: Is addictive, and take quite some time to master.
+Interesting: Has in game tournaments Worldwide, has an active Esports roster.
+
+# Injustice 2 Legendary edition
+Positive: Requires attentivity and hand dexterity. Multiplayer is allowed
+Negative: Takes time to load, has age limited features, very expensive
+Interesting: Is able to load new features when they come out.(Quick downtime)
+
 # PMI List
 Sea pollution game?  Overfishing game?  Global Warming game?  Climate change game?  Sea rising game? 
 The Need for my game: A fun way for teens and young adults to find out about major Global Issues while also enhancing motor skills and Hand-eye co-ordination.
