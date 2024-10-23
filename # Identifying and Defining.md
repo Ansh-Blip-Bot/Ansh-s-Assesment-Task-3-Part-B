@@ -32,7 +32,7 @@ Identifying the need: My new game will create a hands-on experience where they m
  
  # Functional Requirments
 1.  W or the top arrow key will make the Sprite move forward, the S or bottom arrow  will make them move behind, A and D and the two arrows will make them move side to side. The shift could be grab a powerup or let go of a handicap. The Tab button will make the Sprite engage in evasive maneouvers and the mouse click could be used in a reaction time minigame.
-2. They can move the Charecter, they can pick up power-ups, look at their current score and all time high-score and dodge the pollution(Obstacles) If the game must be paused, you press the save button which 
+2. They can move the Charecter, they can pick up power-ups, look at their current score and all time high-score and dodge the pollution(Obstacles) If the game must be paused, you press the save button which records,
 3. Every key will only have one job to accomplish so the player dosen't get confused and can do everything easily. 
 
 # Non-Functional Requirements
@@ -82,3 +82,8 @@ No, the only thing shown is the ocean, sea creatures and rubbish. If any fish or
 ## Guidance:
 Just in case, and words or symbols are offensive to other nations or can be misunderstood, they will be blurred out, the only thing you will se on garbage is a colour and a faint residual of text or symbols. Since the sea can vary colours it will be the generic ocean, a hue between dark and light blue like shown in cartoons.
 
+| Existing Idea  |  Plus |  Minus |  Implication |
+|---|---|---|---|
+|Injustice 2 Legendary Edition![Injustice 2](Capn_R3X/Downloads/Injustice 2.jpg)|||| 
+|Rocket league![rocket league](Capn_R3X/Downloads/rocket leaguejpg)|||||
+|Fortnite![Fortnite images](Capn_R3X/Downloads/Fortnite images.jpg)|||||
