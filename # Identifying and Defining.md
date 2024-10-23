@@ -82,6 +82,9 @@ No, the only thing shown is the ocean, sea creatures and rubbish. If any fish or
 ## Guidance:
 Just in case, and words or symbols are offensive to other nations or can be misunderstood, they will be blurred out, the only thing you will se on garbage is a colour and a faint residual of text or symbols. Since the sea can vary colours it will be the generic ocean, a hue between dark and light blue like shown in cartoons.
 
+# Researching and Planning
+
+## Exploration of existing ideas
 | Existing Idea  |  Plus |  Minus |  Implication |
 |---|---|---|---|
 |![Injustice 2](Capn_R3X/Downloads/Injustice 2.jpg)|Very engaging, lore accurate storyline, multiplayer is very fun, lots of customizable skins.|Very expensive, lots of in-game purchases required to chaange skins for characters, can glitch when both players are the same characters and go for the same move.|My game will be free to play, include multiplayer features, have lots of customizable cosmetics, maybe include a deeper storyline to retain players.| 
@@ -90,3 +93,5 @@ Just in case, and words or symbols are offensive to other nations or can be misu
 |---|---|---|---|
 |![Fortnite images](Capn_R3X/Downloads/Fortnite images.jpg)|World's most popular game, has very reaistic graphics, one of the commmunity's favourite games, infinite collaborations, live events, easter eggs|Very competitive for cash prizes|I will add easter eggs, good graphics and hopefully become a popular game.|
 |---|---|---|---|
+
+## Flowchart and Pseudocode
