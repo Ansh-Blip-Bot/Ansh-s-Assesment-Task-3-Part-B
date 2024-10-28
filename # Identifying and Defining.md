@@ -91,7 +91,7 @@ Just in case, and words or symbols are offensive to other nations or can be misu
 |---|---|---|---|
 |![rocket league](Capn_R3X/Downloads/rocket leaguejpg)|One of the world's best car games, lots of collaborations with other games and franchises,|Removed one of their key features when they partnered with epic games, lots of backlash|I will also have an innnovative addition to my game like their Soccar, soccer with cars|
 |---|---|---|---|
-|![Fortnite images](Capn_R3X/Downloads/Fortnite images.jpg)|World's most popular game, has very reaistic graphics, one of the commmunity's favourite games, infinite collaborations, live events, easter eggs|Very competitive for cash prizes|I will add easter eggs, good graphics and hopefully become a popular game.|
+|![Fortnite images](Capn_R3X/Downloads/Fortnite images.jpg)|World's most popular game, has very reaistic graphics, one of the commmunity's favourite games, infinite collaborations, live events, easter eggs|Very competitive for cash prizes.|I will add easter eggs, good graphics and hopefully become a popular game.|
 |---|---|---|---|
 
 ## Flowchart and Pseudocode
