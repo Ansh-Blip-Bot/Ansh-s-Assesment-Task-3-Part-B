@@ -96,8 +96,7 @@ Just in case, and words or symbols are offensive to other nations or can be misu
 |![Fortnite images](Capn_R3X/Downloads/Fortnite images.jpg)|World's most popular game, has very reaistic graphics, one of the commmunity's favourite games, infinite collaborations, live events, easter eggs|Very competitive for cash prizes.|I will add easter eggs, good graphics and hopefully become a popular game.|
 |---|---|---|---|
 
-## Flowchart and Pseudocode
-<<<<<<< HEAD:Assesment Task DOCUMENT.md
+# Flowchart 
 ### Instructions
 ![Alt text](Instructions.png)
 
@@ -110,3 +109,18 @@ Just in case, and words or symbols are offensive to other nations or can be misu
 ### Saving
 ![Alt text](Saving.png)
 
+# Pseudocode
+### Movement
+BEGIN Movement
+INPUT userInput
+IF 'A' pressed THEN
+Move player right
+ELSE IF 'D' pressed THEN
+Move player left
+ELSE IF 'Spacebar' or 'W' pressed THEN
+IF player touching ground THEN
+Move player
+END Movement
+
+### Instuctions
+Begin 
