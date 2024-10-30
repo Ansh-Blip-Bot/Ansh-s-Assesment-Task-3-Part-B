@@ -21,7 +21,7 @@ Problem statement: Young Adults are getting increasingly unknowledgeable about t
 My skills: I have a basic knowledge of Unity after making my Spongebob game and have lots of resources at my fingertips, such as Learn.Unity.com and the guidance of my teacher. The culmination of these skills will hopefully amount to a succsess without sacrificing any key features. I will also watch Unity tutorials and watch step-by-step youtube tutorials.
 
 # Identifying and Defining
-Identifying the need: My new game will create a hands-on experience where they must complete the objective in as little time as possilbe. It is personalised to all genders, teens and young adults, mixing satire with real global issues. My game will improve reaction time and timing by engaging hand eye co-ordination to acheive the goal. There will also be tutorials to explain the the movement and goals, not everything will be revealed to retain a sense of menace, but the tutoial will be kept breif so as not to drain their patience and bore them.
+Identifying the need: My new game will create a hands-on experience where they must complete the objective in as little time as possilbe. It is personalised to all genders, teens and young adults, mixing satire with real global issues. My game will improve reaction time and timing by engaging hand eye co-ordination to acheive the goal. There will also be tutorials to explain the the movement and goals, not everything will be revealed to retain a sense of menace, but the tutorial will be kept breif so as not to drain their patience and bore them.
 
 # Requirements Outline:
  Inputs: W,A,S,D and the arrows will be incorporated for basic movements, there may also be special commands such as Shift to grab and Tab to dodge. The mouse click and Cursor will also be used.
@@ -89,11 +89,11 @@ Just in case, and words or symbols are offensive to other nations or can be misu
 ## Exploration of existing ideas
 | Existing Idea  |  Plus |  Minus |  Implication |
 |---|---|---|---|
-|![Injustice 2](Capn_R3X/Downloads/Injustice 2.jpg)|Very engaging, lore accurate storyline, multiplayer is very fun, lots of customizable skins.|Very expensive, lots of in-game purchases required to chaange skins for characters, can glitch when both players are the same characters and go for the same move.|My game will be free to play, include multiplayer features, have lots of customizable cosmetics, maybe include a deeper storyline to retain players.| 
+|![alt text](<Injustice 2.png>)|Very engaging, lore accurate storyline, multiplayer is very fun, lots of customizable skins.|Very expensive, lots of in-game purchases required to change skins for characters, can glitch when both players are the same characters and go for the same move.|My game will be free to play, include multiplayer features, have lots of customizable cosmetics, maybe include a deeper storyline to retain players.| 
 |---|---|---|---|
-|![rocket league](Capn_R3X/Downloads/rocket leaguejpg)|One of the world's best car games, lots of collaborations with other games and franchises,|Removed one of their key features when they partnered with epic games, lots of backlash|I will also have an innnovative addition to my game like their Soccar, soccer with cars|
+|![alt text](<Rocket league.png>)|One of the world's best car games, lots of collaborations with other games and franchises,|Removed one of their key features when they partnered with epic games, lots of backlash|I will also have an innnovative addition to my game like their Soccar, soccer with cars|
 |---|---|---|---|
-|![Fortnite images](Capn_R3X/Downloads/Fortnite images.jpg)|World's most popular game, has very reaistic graphics, one of the commmunity's favourite games, infinite collaborations, live events, easter eggs|Very competitive for cash prizes.|I will add easter eggs, good graphics and hopefully become a popular game.|
+|![alt text](Fortnite.png)|World's most popular game, has very reaistic graphics, one of the commmunity's favourite games, infinite collaborations, live events, easter eggs|Very competitive for cash prizes.|I will add easter eggs, good graphics and hopefully become a popular game.|
 |---|---|---|---|
 
 # Flowchart 
@@ -108,6 +108,7 @@ Just in case, and words or symbols are offensive to other nations or can be misu
 
 ### Saving
 ![Alt text](Saving.png)
+
 
 # Pseudocode
 ### Movement
