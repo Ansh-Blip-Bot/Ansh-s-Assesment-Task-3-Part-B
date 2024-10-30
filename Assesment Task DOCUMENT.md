@@ -32,8 +32,10 @@ Identifying the need: My new game will create a hands-on experience where they m
  
  # Functional Requirments
 1.  W or the top arrow key will make the Sprite move forward, the S or bottom arrow  will make them move behind, A and D and the two arrows will make them move side to side. The shift could be grab a powerup or let go of a handicap. The Tab button will make the Sprite engage in evasive maneouvers and the mouse click could be used in a reaction time minigame.
-2. They can move the Charecter, they can pick up power-ups, look at their current score and all time high-score and dodge the pollution(Obstacles) If the game must be paused, you press the save button which records,
-3. Every key will only have one job to accomplish so the player dosen't get confused and can do everything easily. 
+2. Look at their current score and all time high-score and dodge the pollution(Obstacles) If the game must be paused, you press the save button which records,
+3. After a certain score is reached, pop-up message appears saying next level reached and you smoothly start the next stage.
+4. Scoring, for every pollution that passes one points get added.
+
 
 # Non-Functional Requirements
 1. The experience should be seamless, , it should not have glitches and be able to run the game at the highest graphic and frames possible to reduce strain on eyes.
@@ -95,3 +97,14 @@ Just in case, and words or symbols are offensive to other nations or can be misu
 |---|---|---|---|
 
 ## Flowchart and Pseudocode
+### Instructions
+![Alt text](Instructions.png)
+
+### Finishing Level
+![Alt text](Finishing%20Level.png)
+
+### Movement
+![Alt text](Movement.png)
+
+### Saving
+![Alt text](Saving.png)
