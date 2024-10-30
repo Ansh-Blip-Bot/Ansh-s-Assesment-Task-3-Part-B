@@ -115,13 +115,36 @@ Just in case, and words or symbols are offensive to other nations or can be misu
 BEGIN Movement
 INPUT userInput
 IF 'A' pressed THEN
-Move player right
-ELSE IF 'D' pressed THEN
-Move player left
-ELSE IF 'Spacebar' or 'W' pressed THEN
-IF player touching ground THEN
-Move player
+Move player Left
+IF 'D' pressed THEN
+Move player Right
+ IF'W' pressed THEN
+ Move player forward
+ IF 'S' move player backward
 END Movement
 
 ### Instuctions
-Begin 
+BEGIN Instructions
+Input
+If Help pressed THEN
+open Menu
+IF instructions pressed THEN
+Show Instructions
+ELSE IF show Pause and Save Menu
+END Instructions
+
+### Next Level
+BEGIN Next Level
+IF Player finishes level THEN
+Pop-up level says "Next Level"
+IF PLayers Dies THEN
+Send back to menu THEN
+Player chooses next level or restart stage
+END Next Level
+
+### Pausing/Saving game
+BEGIN Pausing/Saving game
+IF Player wants to stop playing THEN
+IF Player wants to save scores THEN
+Save Score and close
+END Pausing/Saving game
