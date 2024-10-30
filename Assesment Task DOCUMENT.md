@@ -32,10 +32,15 @@ Identifying the need: My new game will create a hands-on experience where they m
  
  # Functional Requirments
 1.  W or the top arrow key will make the Sprite move forward, the S or bottom arrow  will make them move behind, A and D and the two arrows will make them move side to side. The shift could be grab a powerup or let go of a handicap. The Tab button will make the Sprite engage in evasive maneouvers and the mouse click could be used in a reaction time minigame.
+<<<<<<< HEAD:Assesment Task DOCUMENT.md
 2. Look at their current score and all time high-score and dodge the pollution(Obstacles) If the game must be paused, you press the save button which records,
 3. After a certain score is reached, pop-up message appears saying next level reached and you smoothly start the next stage.
 4. Scoring, for every pollution that passes one points get added.
 
+=======
+2. They can move the Charecter, they can pick up power-ups, look at their current score and all time high-score and dodge the pollution(Obstacles) If the game must be paused, you press the save button which records,
+3. After finished playing they can save this session's scores.
+>>>>>>> 8704be2c07605de1e5be6278d8d3a93e5bedae21:# Identifying and Defining.md
 
 # Non-Functional Requirements
 1. The experience should be seamless, , it should not have glitches and be able to run the game at the highest graphic and frames possible to reduce strain on eyes.
@@ -97,6 +102,7 @@ Just in case, and words or symbols are offensive to other nations or can be misu
 |---|---|---|---|
 
 ## Flowchart and Pseudocode
+<<<<<<< HEAD:Assesment Task DOCUMENT.md
 ### Instructions
 ![Alt text](Instructions.png)
 
@@ -108,3 +114,5 @@ Just in case, and words or symbols are offensive to other nations or can be misu
 
 ### Saving
 ![Alt text](Saving.png)
+=======
+>>>>>>> 8704be2c07605de1e5be6278d8d3a93e5bedae21:# Identifying and Defining.md
