@@ -148,3 +148,20 @@ IF Player wants to stop playing THEN
 IF Player wants to save scores THEN
 Save Score and close
 END Pausing/Saving game
+
+# Gantt Chart
+![alt text](<Screenshot 2024-11-05 204321.png>)
+
+# Story Board
+1. ![alt text](<Screenshot 2024-11-05 211608.png>) ![alt text](<Screenshot 2024-11-05 211750.png>)
+
+2. ![alt text](<Screenshot 2024-11-05 211925.png>) ![alt text](<Screenshot 2024-11-05 212023.png>)
+
+3. ![alt text](<Screenshot 2024-11-05 212105.png>) ![alt text](<Screenshot 2024-11-05 212157.png>)
+
+4. ![alt text](<Screenshot 2024-11-05 212242.png>) ![alt text](<Screenshot 2024-11-05 212312.png>) 
+
+5. ![ ](<Screenshot 2024-11-05 212341.png>)![alt text](<Screenshot 2024-11-05 212406.png>)
+
+# Full Game Flowchart
+![alt text](<Screenshot 2024-11-05 212445.png>)
